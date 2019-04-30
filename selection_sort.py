@@ -1,8 +1,8 @@
 def selection_sort(array):
     temp = array.copy()
-    for x in range(0,len(temp)-2):
+    for x in range(0,len(temp)-1):
         index = x
-        for y in range(x+1,len(temp)-1):
+        for y in range(x+1,len(temp)):
             if temp[index]>=temp[y]:
                 index = y
         if x != index :
