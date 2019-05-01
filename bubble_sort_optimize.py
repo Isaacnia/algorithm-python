@@ -1,4 +1,4 @@
-def bubble_sort_optomize(a):
+def bubble_sort_optimize(a):
     array = a.copy()
     flag = True #O(n) swap for sorted array
     for x in range(0,len(array)):
