@@ -6,4 +6,4 @@ Practice data structure and algorithm using Python
 - [Bubble sort optimization](https://github.com/Isaacnia/algorithm-python/blob/master/bubble_sort_optimize.py "Bubble sort optimization")
 - [Insertion sort](https://github.com/Isaacnia/algorithm-python/blob/master/insertion_sort.py "Insertion sort")
 ## Dynamic programming
-- [Knapsack problem](https://github.com/Isaacnia/algorithm-python/blob/master/backpack.py "Knapsack problem") 
+- [Knapsack problem](https://github.com/Isaacnia/algorithm-python/blob/master/knapsack.py "Knapsack problem") 
