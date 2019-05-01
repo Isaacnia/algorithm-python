@@ -1,4 +1,4 @@
-def backpack():
+def knapsack():
         print('Price of gem:')
         price = [int(x) for x in input().split(" ")]
         print('Weight of gem:')
@@ -16,4 +16,4 @@ def backpack():
                         else :
                                 c[x][y] = c[x-1][y]
         print("Maximum of price in backpack =>",c[num-1][capacity-1])
-backpack()
+knapsack()
