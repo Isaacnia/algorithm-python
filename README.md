@@ -1,5 +1,5 @@
 # algorithm-python
-Practice data structure and algorithm using Python
+Practice data structure and algorithm using Python 3.7.2
 ## Sorting algorithm
 - [Selection sort](https://github.com/Isaacnia/algorithm-python/blob/master/selection_sort.py "Selection sort")
 - [Bubble Sort](https://github.com/Isaacnia/algorithm-python/blob/master/bubble_sort.py "Bubble Sort")
