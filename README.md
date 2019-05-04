@@ -9,3 +9,5 @@ Practice data structure and algorithm using Python 3.7.2
 ## Dynamic programming
 - [Knapsack problem](https://github.com/Isaacnia/algorithm-python/blob/master/knapsack.py "Knapsack problem") 
 - [Coin change](https://github.com/Isaacnia/algorithm-python/blob/master/coin_change.py "Coin change")
+## Data structures
+- [Graph](https://github.com/Isaacnia/algorithm-python/blob/master/graph.py "Graph")
